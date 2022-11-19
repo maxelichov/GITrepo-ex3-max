@@ -9,7 +9,7 @@ public class Max
 		for(int i = 1; i <= 10; i++)
 		{
 		
-			System.out.println("Max"...+i);
+			System.out.println("Max..."+i);
 		}
 		
 	
