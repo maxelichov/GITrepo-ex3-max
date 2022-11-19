@@ -1,6 +1,6 @@
 
 
-public Class Max
+public class Max
 {
 
 
